@@ -14,8 +14,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-lokeshwarrior12.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lokeshwarrior12.github.io/Lokeshwar_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO-your-linkedin-handle)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Profile-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/TODO-your-hf-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokeshwar-kodipunjula-87a404239)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kodipunjulaloki@gmail.com)
 
 </div>
