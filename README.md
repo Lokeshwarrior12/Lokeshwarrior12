@@ -172,7 +172,7 @@ More on my [portfolio](https://lokeshwarrior12.github.io/Lokeshwar_Portfolio/#th
 <div align="center">
   
 ## Python is simple terms
-
+```python
 # module.py
 variable = "Data value"  # Stores an actual value (which has a data type)
 
@@ -183,6 +183,7 @@ class Identifier:        # 'class' must be lowercase
 object1 = Identifier()
 object2 = Identifier()
 result = object1.function()  # Matches 'object1' (case-sensitive)
+```
 
 
 ### 🤝 Let's build something intelligent
